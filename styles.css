@@ -1,0 +1,14 @@
+#clear {
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+#ok {height: 30px;
+    width: 75px;
+    background:lightgray;
+    font-weight: bold;
+}
